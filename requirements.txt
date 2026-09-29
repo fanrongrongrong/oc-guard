@@ -1,0 +1,4 @@
+blind-watermark>=0.4.4
+opencv-python>=4.8
+numpy
+requests

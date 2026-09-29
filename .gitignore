@@ -1,0 +1,11 @@
+.venv/
+config.json
+registry.json
+seen_hits.json
+reports/
+originals/*
+!originals/.gitkeep
+web/
+com.ocguard.patrol.plist
+.DS_Store
+*_wm*.png
